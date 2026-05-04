@@ -3,5 +3,5 @@
 ---
 
 
-[[LC Web/Lennie's Links 20260503\|Lennie's Links 20260503]]
+[[LC Web/Lennies Links 20260503\|Lennies Links 20260503]]
 [[OML Web/Journey0 Preparation/JPrep Home\|JPrep Home]]
